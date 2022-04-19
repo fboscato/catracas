@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="catracaclube/src"/>
+	<classpathentry kind="lib" path="catracaclube/dist/Cliente 8X_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/Cliente 8X.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/joda-time-2.10.10_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/joda-time-2.10.10.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/json-20201115_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/json-20201115.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/log4j-1.2.15_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/postgresql-42.2.16_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/postgresql-42.2.16.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/TcpCom_1.jar"/>
+	<classpathentry kind="lib" path="catracaclube/dist/lib/TcpCom.jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/joda-time-2.10.10.jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/json-20201115.jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(1).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(1)(1).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(2).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(2)(1).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(3).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(3)(1).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/log4j-1.2.15(4).jar"/>
+	<classpathentry kind="lib" path="catracaclube/lib/TcpCom.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/Cliente 8X.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/lib/joda-time-2.10.10.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/lib/json-20201115.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/lib/postgresql-42.2.16.jar"/>
+	<classpathentry kind="lib" path="catracaclube/Sistema Catracas/lib/TcpCom.jar"/>
+	<classpathentry kind="lib" path="dist/Cliente 8X.jar"/>
+	<classpathentry kind="lib" path="dist/lib/joda-time-2.10.10.jar"/>
+	<classpathentry kind="lib" path="dist/lib/json-20201115.jar"/>
+	<classpathentry kind="lib" path="dist/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-42.2.16.jar"/>
+	<classpathentry kind="lib" path="dist/lib/TcpCom.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/Cliente 8X.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/lib/joda-time-2.10.10.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/lib/json-20201115.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/lib/postgresql-42.2.16.jar"/>
+	<classpathentry kind="lib" path="Sistema Catracas/lib/TcpCom.jar"/>
+	<classpathentry kind="output" path="catracaclube/build/classes"/>
+</classpath>
